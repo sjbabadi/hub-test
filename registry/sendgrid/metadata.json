@@ -1,0 +1,27 @@
+{
+    "overview": {
+      "description": "Connect to SendGrid v3 API and expose it to Hasura Cloud v3 project",
+      "title": "SendGrid Native Data Connector",
+      "media": "registry/sendgrid/logo.png",
+      "tags": [],
+      "latest_version": ""
+    },
+    "author": {
+      "support_email": "support@hasura.io",
+      "homepage": "https://hasura.io",
+      "name": "Hasura"
+    },
+    "is_verified": true,
+    "is_hosted_by_hasura": false,
+    "source_code": {
+      "is_open_source": true,
+      "repository": "https://github.com/hasura/ndc-sendgrid/",
+      "version": [
+        {
+          "tag": "",
+          "hash": "",
+          "is_verified": false
+        }
+      ]
+    }
+  }
